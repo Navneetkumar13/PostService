@@ -1,2 +1,2 @@
 # PostService
-Code is in dev/latest branch
+Switch to dev/latest branch
