@@ -2,6 +2,7 @@
 
 Description:
 This service is a part of another microservice UserService which uses the same the SQL Database as the UserService and communicates with the microservice UserService for the operations. It uses Docker for containerisation.
+You can refer the LLD Class-Diagram image present in the repo
 
 Use Cases:
 1. Create a post(Discussion)
