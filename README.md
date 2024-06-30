@@ -3,6 +3,19 @@
 Description:
 This service is a part of another microservice UserService which uses the same the SQL Database as the UserService and communicates with the microservice UserService for the operations. It uses Docker for containerisation.
 
+Use Cases:
+1. Create a post(Discussion)
+2. Update a post
+3. Delete a post
+4. Search posts by HashTags
+5. Search posts by text
+6. Get View count on a post
+7. Add Comment
+8. Reply to a comment
+9. Update comment
+10. Delete comment
+11. Like a post or a comment.
+
 Tech Stack:
 1. It is build on Python and the framework used is Django-Rest-FrameWork.
 2. For the Database it is using PostgreSQL Database
